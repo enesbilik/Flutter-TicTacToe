@@ -1,6 +1,10 @@
-# tic_tac_toe_last
+# Flutter TicTacToe Game
 
-A new Flutter project.
+###Show some ❤️ and star the repo to support the project
+
+My first flutter project
+
+###Screenshots
 
 ## Getting Started
 
