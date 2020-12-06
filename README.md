@@ -8,12 +8,14 @@ My first flutter project
 ## Main Menu
 <img src="ScreenShoots/ss1.jpg" height="300em" />
 
-## Game Board
-If you click on the player you can change the first player.
+# Game Board
+## If you click on the player you can change the first player.
 <img src="ScreenShoots/ss2.jpg" height="300em" />
-## 
+
+## Click the button to reset the game
 <img src="ScreenShoots/ss3.jpg" height="300em" />
-##
+
+## Win or Draw
 <img src="ScreenShoots/ss4.jpg" height="300em" />
 
 ## Random Player
