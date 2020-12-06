@@ -5,7 +5,17 @@
 My first flutter project
 
 ## Screenshots
+## Main Menu
+<img src="ScreenShoots/ss1.jpg" height="300em" />
 
+## Game Board
+If you click on the player you can change the first player.
+<img src="ScreenShoots/ss2.jpg" height="300em" />
+<img src="ScreenShoots/ss3.jpg" height="300em" />
+<img src="ScreenShoots/ss4.jpg" height="300em" />
+
+## Random Player
+<img src="ScreenShoots/ss5.jpg" height="300em" />
 
 ## Getting Started
 
