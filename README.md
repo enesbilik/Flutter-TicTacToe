@@ -15,7 +15,7 @@ My first flutter project
 ## Click the button to reset the game
 <img src="ScreenShoots/ss3.jpg" height="300em" />
 
-## Win or Draw
+## Win or Lose
 <img src="ScreenShoots/ss4.jpg" height="300em" />
 
 ## Random Player
