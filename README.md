@@ -1,10 +1,10 @@
 # Flutter TicTacToe Game
 
-###Show some ❤️ and star the repo to support the project
+### Show some ❤️ and star the repo to support the project
 
 My first flutter project
 
-###Screenshots
+### Screenshots
 
 ## Getting Started
 
