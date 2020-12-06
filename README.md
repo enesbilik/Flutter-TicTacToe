@@ -4,7 +4,7 @@
 
 My first flutter project
 
-## Screenshots
+# Screenshots
 ## Main Menu
 <img src="ScreenShoots/ss1.jpg" height="300em" />
 
