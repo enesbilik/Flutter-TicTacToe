@@ -11,7 +11,9 @@ My first flutter project
 ## Game Board
 If you click on the player you can change the first player.
 <img src="ScreenShoots/ss2.jpg" height="300em" />
+## 
 <img src="ScreenShoots/ss3.jpg" height="300em" />
+##
 <img src="ScreenShoots/ss4.jpg" height="300em" />
 
 ## Random Player
